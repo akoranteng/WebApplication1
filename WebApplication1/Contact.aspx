@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %></h2>
-    <p>Your contact page Info.</p>
+    <p>Your contact page Info1.</p>
 
     <address>
         One Microsoft Way<br />
